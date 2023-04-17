@@ -1,5 +1,5 @@
 testing git  for me
 run git init
-git add demo2
+git add demo2.txt
 git commit ""
 git push origin master
